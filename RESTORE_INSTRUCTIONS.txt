@@ -1,0 +1,11 @@
+ZOMBIE SURVIVAL - RESTORE ONLY
+
+This project restores the previously working full versions of:
+- src/game/engine/GameEngine.ts
+- src/game/levels.ts
+- src/types/game.ts
+
+No UI redesign was made.
+No timer/next-level gameplay change was made yet.
+
+All other project files are from the current uploaded project.

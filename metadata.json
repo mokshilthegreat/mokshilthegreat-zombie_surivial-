@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Survival: Last Stand",
+  "description": "Dark cinematic 2D top-down zombie survival game with dynamic lighting, hordes, boss battles, weapon upgrades, and persistent progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
